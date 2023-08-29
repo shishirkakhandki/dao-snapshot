@@ -2,4 +2,5 @@ artifacts
 cache
 node_modules
 typechain-types
-README.node_modules
+READ-ME.md
+node_modules
