@@ -10,11 +10,16 @@
     "@types/node": "^20.5.7",
     "chain": "^0.4.0",
     "ethers": "^6.1.0",
+    "ethers-utils": "^2.1.11",
     "hardhat": "^2.17.1",
     "hardhat-deploy": "^0.11.37",
+    "keccak256": "^1.0.6",
     "ts-node": "^10.9.1",
     "type": "^2.7.2",
     "typechain": "^8.3.1",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
   }
 }
